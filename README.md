@@ -1,6 +1,10 @@
 Slab Punching Shear Strength – Machine Learning Models
 
-This repository provides the dataset and Orange Data Mining workflow used to evaluate machine learning models for predicting the punching shear strength of reinforced concrete slabs.
+This repository provides a sample experimental and finite element dataset and an example Orange Data Mining workflow associated with the manuscript investigating punching shear strength of slab–column connections with embedded pipes.
+
+The sample materials are provided to illustrate the structure of the dataset and the machine learning methodology. They do not represent the complete 572-specimen database used in the study.
+
+The complete dataset, trained ML models, full workflow, and supporting materials are intended to be released following acceptance of the manuscript.
 
 Files
 
